@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.234767
+  brandStrength: 0.1481582
+  lightness: 0
+  rhythmicContrast: 0.7706093
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+typography_spectrum: 0.702509
+name: dbschmidt
